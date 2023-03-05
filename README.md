@@ -1,4 +1,4 @@
-# Membuat Biodata Menggunakan HTML 
+# Membuat Biodata Menggunakan HTML Dan CSS
 
 
 Tugas Latihan Membuat Biodata Menggunakan HTML dasar 
